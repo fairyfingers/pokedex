@@ -1,0 +1,41 @@
+.left-side {
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+
+.right-side {
+    position: absolute;
+    top: 10%;
+    left: 25%;
+}
+
+.tip {
+    color: grey;
+    font-style: italic;
+}
+
+.header {
+    width: 170%;
+    background-color: #f0f0f0;
+    border-radius: 20px;
+    padding-left: 30px;
+}
+
+.title {
+    float: left;
+}
+
+.avatar {
+    float: left;
+}
+
+.link {
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+}
+
+.link:hover {
+    color: red;
+}
